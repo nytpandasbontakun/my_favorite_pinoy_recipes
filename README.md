@@ -1,3 +1,3 @@
-# my_favorite_pinoy_recipes
+My Favorite Pinoy Recipes!
 
-a html project showcasing my favorite pinoy recipes
+an html project showcasing my favorite pinoy recipes
